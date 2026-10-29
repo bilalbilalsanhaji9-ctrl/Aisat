@@ -1,0 +1,8 @@
+{
+  "name": "PflegeEnzyklopädie - الموسوعة التمريضية الألمانية",
+  "description": "الموسوعة السريرية والتمريضية الألمانية العربية الشاملة لطالب التكوين المهني والكوادر الصحية: مصطلحات، أجهزة طبية، تشريح، حساب جرعات ومحاكاة سريرية",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
